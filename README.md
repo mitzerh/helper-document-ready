@@ -1,2 +1,3 @@
-# helper-document-ready
-document.ready raw javascript
+# Javascript Helpers
+
+Miscellaneous JS helpers
